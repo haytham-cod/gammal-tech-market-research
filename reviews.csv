@@ -1,0 +1,51 @@
+app_name,review_text,category
+Vezeeta,Booked an appointment through the app but the clinic said they never received the booking,appointment reliability
+Vezeeta,App logs me out every time I try to upload my medical report,technical bug
+Vezeeta,Doctor profile listed wrong specialization which wasted my visit,trust issue
+Vezeeta,Paid online but the booking confirmation never appeared,pricing
+Vezeeta,Customer support never responded to my complaint,customer support
+Vezeeta,Search filters for insurance companies do not work properly,missing feature
+Vezeeta,App crashes whenever I try to open my prescription history,technical bug
+Vezeeta,Appointment was cancelled without notification,bad UX
+Vezeeta,The interface is confusing and hard to navigate,bad UX
+Vezeeta,Doctor ratings seem unreliable and misleading,trust issue
+Shezlong,The app crashes constantly during video therapy sessions,technical bug
+Shezlong,Therapist joined the session very late without explanation,service quality
+Shezlong,Customer support takes days to reply to messages,customer support
+Shezlong,Session prices are too expensive compared to local clinics,pricing
+Shezlong,Therapist profile information was inaccurate,trust issue
+Shezlong,Video quality during sessions is very poor,technical bug
+Shezlong,No option to easily reschedule a therapy session,missing feature
+Shezlong,The UI is confusing and difficult to use,bad UX
+Shezlong,Notifications for upcoming sessions do not work,technical bug
+Shezlong,Therapist ended the session earlier than scheduled,service quality
+Chefaa,Prescription upload feature fails most of the time,technical bug
+Chefaa,Medicine delivery arrived one day late without explanation,service quality
+Chefaa,App interface is slow and takes too long to load pages,bad UX
+Chefaa,Some medicines listed in the app are actually unavailable,trust issue
+Chefaa,Customer service did not respond to my delivery issue,customer support
+Chefaa,Payment failed but money was still deducted from my card,pricing
+Chefaa,No option to track delivery in real time,missing feature
+Chefaa,App crashes when confirming medicine order,technical bug
+Chefaa,Very confusing process for uploading prescriptions,bad UX
+Chefaa,Prices of some medicines seem higher than local pharmacies,pricing
+Yodawy,Prescription scanning does not recognize many medicines,technical bug
+Yodawy,Delivery took much longer than estimated,service quality
+Yodawy,App keeps freezing when I try to check order status,technical bug
+Yodawy,Customer support never answered my refund request,customer support
+Yodawy,Insurance integration does not work correctly,trust issue
+Yodawy,Navigation between orders and prescriptions is confusing,bad UX
+Yodawy,No clear option to cancel an order once placed,missing feature
+Yodawy,Medicine prices are sometimes inconsistent,pricing
+Yodawy,Order history page fails to load properly,technical bug
+Yodawy,Notifications about delivery status never arrive,missing feature
+Sehhaty,App takes too long to log in with national ID,technical bug
+Sehhaty,The interface is outdated and hard to understand,bad UX
+Sehhaty,Appointment scheduling feature does not work reliably,appointment reliability
+Sehhaty,Health records sometimes fail to load,technical bug
+Sehhaty,Customer support provides generic automated replies,customer support
+Sehhaty,No option to export or share medical reports,missing feature
+Sehhaty,Doctor information is sometimes incomplete,trust issue
+Sehhaty,Too many steps required just to book a simple appointment,bad UX
+Sehhaty,App crashes when switching between health services,technical bug
+Sehhaty,Notifications about upcoming appointments are unreliable,appointment reliability
